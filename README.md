@@ -4,7 +4,7 @@
 ***
 
 <div align="center">
-<img align="middle" alt="cartao-nu" height=600" width="990" src="CartaoNu.gif"><br>
+<img align="middle" alt="cartao-nu" height=600" width="990" src="imagens/CartaoNu.gif"><br>
 </div>
 
 ***
